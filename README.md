@@ -5,7 +5,6 @@
 
 Here are the requirements:
 Data is given 
-9.25 hours per day.
-
+Tools Required: JUPYTER NOTEBOOK
 Coding and Implementation:
 First we need to import all the required libraries. This coding part is divided into four sections  in order to get the solution.
